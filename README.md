@@ -1,5 +1,5 @@
 
-# wfpblock: Simple Stealthy WFP Network Silencer
+# 🚫 wfpblock: Simple Stealthy WFP Network Silencer
 
 Leverages the **Windows Filtering Platform (WFP)** and bypasses traditional application-layer restrictions to enforce persistent high-priority blocks at the kernel level.
 
