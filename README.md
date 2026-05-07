@@ -76,3 +76,7 @@ By removing specific communication channels, the operator can execute lateral mo
 *   **Inverse Filtering**: Create a *Whitelist-Only* mode where all traffic is blocked *except* for the operator's C2 IP.
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
