@@ -78,5 +78,5 @@ By removing specific communication channels, the operator can execute lateral mo
 ---
 
 <p align="center">
-  With ❤️ by <b>Aradhya</b>
+  With ❤️ by <b>Arusha</b>
 </p>
